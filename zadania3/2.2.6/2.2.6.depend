@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1616071210 source:c:\programowanie strukturalne\zadania3\2.2.6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
